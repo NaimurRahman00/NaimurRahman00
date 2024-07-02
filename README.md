@@ -5,17 +5,17 @@
 
 ## :eyes: About me
 
-- 🌟 Main language: **JavaScript**
+- 💪 Enthusiastic about web development
+
+- 🌟 Language: **JavaScript**
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React, Javascript, Frontend Technologies**
+- 💬 You can ask me about **React, Javascript, Frontend Technologies**
 
-- 🤝  I'm open to collaborating on interesting projects as a developer.
+- 🤝  I'm enthusiastic about collaborating on innovative front-end development projects.
 
-- 📫 How to reach me **aminaim4u@gmail.com**
-
-<h3 align="center">Front-End Developer | Enthusiastic about web development</h3>
+- 📫 Reach me out **aminaim4u@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
 
