@@ -40,7 +40,7 @@
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Next.js.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Firebase.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Node.js.png" width="50" />
-<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Express.js.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Express.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/MongoDB.png" width="50" />
 
 <p align="center">
