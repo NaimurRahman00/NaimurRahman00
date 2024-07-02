@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/naimurrahman00">
-<img src="https://i.ibb.co/JtfVr2H/Frontend-Developer.png" />
+<img src="https://i.ibb.co/ZTCVMgP/Frontend-Developer-1.png" />
 </a>
 
 <h3 align="center">Front-End Developer | Enthusiastic about web development</h3>
