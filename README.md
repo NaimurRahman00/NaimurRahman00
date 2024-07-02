@@ -31,14 +31,17 @@
 <br>
 <p align="center">
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/HTML5.png" width="50" />
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/CSS3.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Tailwind CSS.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Bootstrap.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/JavaScript.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/jQuery.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/React.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Next.js.png" width="50" />
+
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
