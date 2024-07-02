@@ -22,8 +22,9 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NaimurRahman00&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&fire=FF4500&sideLabels=00FF00&currStreakNum=FFFF00&ring=FF0000&currStreakLabel=00FFFF&sideNums=FF00FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NaimurRahman00&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
+
 
 
 
