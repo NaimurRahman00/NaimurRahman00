@@ -1,9 +1,12 @@
 <a href="https://www.linkedin.com/in/naimurrahman00">
 <img src="https://i.ibb.co/ZTCVMgP/Frontend-Developer-1.png" />
 </a>
-<br/>
+<hr/>
 
 ## :eyes: About me
+
+<p>I'm an enthusiastic Junior Frontend Developer from Dhaka, Bangladesh.</p>
+<p>Currently studying for a BSc in Mathematics. I love learning new technologies and applying them to create innovative web solutions. My skills include HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Next.js, and Firebase for authentication. On the backend, I work with Node.js and MongoDB.</p>
 
 - 💪 Enthusiastic about web development
 
@@ -17,11 +20,9 @@
 
 - 📫 Reach me out **aminaim4u@gmail.com**
 
+<hr/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 📫 How to reach me **aminaim4u@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
