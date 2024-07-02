@@ -1,6 +1,19 @@
 <a href="https://www.linkedin.com/in/naimurrahman00">
 <img src="https://i.ibb.co/ZTCVMgP/Frontend-Developer-1.png" />
 </a>
+<br/>
+
+## :eyes: About me
+
+- 🌟 Main language: **JavaScript**
+
+- 🌱 I’m currently learning **Next.js**
+
+- 💬 Ask me about **React, Javascript, Frontend Technologies**
+
+- 🤝  I'm open to collaborating on interesting projects as a developer.
+
+- 📫 How to reach me **aminaim4u@gmail.com**
 
 <h3 align="center">Front-End Developer | Enthusiastic about web development</h3>
 
