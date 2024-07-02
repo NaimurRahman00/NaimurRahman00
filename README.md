@@ -22,8 +22,9 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NaimurRahman00&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NaimurRahman00&theme=react&hide_border=true&background=0D1117&stroke=FFFFFF&fire=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF" />
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
