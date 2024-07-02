@@ -43,7 +43,7 @@
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Express.js.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/MongoDB.png" width="50" />
 
-</p>
+</p align="center">
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Visual Studio Code (VS Code).png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Git.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/GitHub.png" width="50" />
@@ -52,12 +52,7 @@
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Vercel.png" width="50" />
 <p align="center">
 
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
+<br/>
 
 
 
