@@ -8,13 +8,9 @@
 <p>I'm an enthusiastic Junior Frontend Developer from Dhaka, Bangladesh.</p>
 <p>Currently studying for a BSc in Mathematics. I love learning new technologies and applying them to create innovative web solutions. My skills include HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Next.js, and Firebase for authentication. On the backend, I work with Node.js and MongoDB.</p>
 
-- 💪 Enthusiastic about web development
-
 - 🌟 Language: **JavaScript**
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 You can ask me about **React, Javascript, Frontend Technologies**
+- 🌱 I’m currently learning **Next.js & TypyScript**
 
 - 🤝  I'm enthusiastic about collaborating on innovative front-end development projects.
 
