@@ -22,7 +22,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NaimurRahman00&theme=react&hide_border=false&background=0D1117&stroke=0D1117&fire=#3FDA26&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NaimurRahman00&theme=react&hide_border=false&background=0D1117&stroke=0D1117&fire=3FDA26&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 
