@@ -30,7 +30,7 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/HTML5.png"/>
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/HTML5.png" width="40"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 </p>
