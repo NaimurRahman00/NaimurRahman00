@@ -38,8 +38,18 @@
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/jQuery.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/React.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Next.js.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Firebase.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Node.js.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Express.js.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/MongoDB.png" width="50" />
 
 </p>
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Visual Studio Code (VS Code).png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Git.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/GitHub.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Adobe Photoshop.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Figma.png" width="50" />
+<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Vercel.png" width="50" />
 <p align="center">
 
 </p>
