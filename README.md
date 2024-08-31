@@ -36,7 +36,7 @@
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Tailwind CSS.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Bootstrap.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/JavaScript.png" width="50" />
-<img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/jQuery.png" width="50" />
+<!-- <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/jQuery.png" width="50" /> -->
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/React.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Next.js.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Firebase.png" width="50" />
