@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/naimurrahman00">
-<img src="https://i.ibb.co/TL8TDKV/Frontend-Developer-1.png" alt="Naimur Rahman" border="0">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/64iLZlI" data-context="false" ><a href="//imgur.com/a/64iLZlI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </a>
 <hr/>
 
