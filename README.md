@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/naimurrahman00">
-<img scr="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/Github-Banner-Naimur.png" alt="Naimur rahman"/>
+<img scr="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/Naimur-github.png" alt="Naimur rahman"/>
 </a>
 <hr/>
 
