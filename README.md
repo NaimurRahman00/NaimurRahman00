@@ -1,6 +1,7 @@
 <a href="https://www.linkedin.com/in/naimurrahman00">
-<img scr="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Naimur-github.png" alt="Naimur rahman"/>
+<!-- <img scr="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Naimur-github.png" alt="Naimur rahman"/> -->
 </a>
+<img scr="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Naimur-github.png" alt="Naimur rahman"/>
 <hr/>
 
 ## :eyes: About me
