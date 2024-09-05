@@ -33,7 +33,6 @@
 <br>
 <p align="center">
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/HTML5.png" width="50" />
-  <img scr="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Naimur-github.png" alt="Naimur rahman"/>
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/CSS3.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Tailwind CSS.png" width="50" />
 <img src="https://github.com/NaimurRahman00/NaimurRahman00/blob/main/github_icons/Bootstrap.png" width="50" />
