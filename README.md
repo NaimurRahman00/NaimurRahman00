@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
 <hr/>
 
 <a href="https://www.linkedin.com/in/naimurrahman00">
