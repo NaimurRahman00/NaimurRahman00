@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
+<hr/>
+
 <a href="https://www.linkedin.com/in/naimurrahman00">
 <img scr="https://github.com/NaimurRahman00/NaimurRahman00/blob/1015178856eeda5bf1ecd02b8834d7e7647eaf27/banner.png" alt="Linkedin" />
 </a>
@@ -64,9 +67,8 @@
 <a href="https://fb.com/https://www.facebook.com/rahmannaimur00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rahmannaimur00/" height="30" width="40" /></a>
 </p>
 <br/>
-<hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
+
 
 
 
