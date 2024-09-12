@@ -1,6 +1,4 @@
-<a href="https://www.linkedin.com/in/naimurrahman00/" target="blank">
-<img src="![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/main/banner.png)" />
-</a>
+![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/main/banner.png)
 <hr/>
 
 <div>
