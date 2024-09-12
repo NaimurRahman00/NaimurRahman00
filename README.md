@@ -1,10 +1,10 @@
-![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/main/banner.png)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
-<hr/>
-
 <a href="https://www.linkedin.com/in/naimurrahman00">
-<!-- <img scr="banner.png" alt="Linkedin" /> -->
+![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/main/banner.png)
 </a>
+<hr/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
+
+<!-- <img scr="banner.png" alt="Linkedin" /> -->
 <br/>
 
 <hr/>
