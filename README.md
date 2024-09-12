@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/naimurrahman00">
 <!-- <img scr="banner.png" alt="Linkedin" /> -->
-![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/c39d9ad7f0128dcc8f1bd46dd2b439a680ec81a9/banner.png)
+![logo](https://i.ibb.co.com/TL8TDKV/Frontend-Developer-1.png)
 </a>
 <br/>
 
