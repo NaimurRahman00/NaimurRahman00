@@ -15,7 +15,7 @@
 
 - 🤝  I'm enthusiastic about collaborating on innovative front-end development projects.
 
-- 📫 Reach me out **aminaim4u@gmail.com**
+- 📫 Reach me out **naimurwebdev@gmail.com**
 
 <hr/>
 
