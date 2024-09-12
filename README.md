@@ -1,4 +1,4 @@
-![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/main/Frontend20%Developer.png)
+![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/main/banner.png)
 <hr/>
 
 <div>
