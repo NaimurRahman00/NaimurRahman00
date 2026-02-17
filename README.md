@@ -1,5 +1,5 @@
 ![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/main/githubbanner.png)
-<hr/>
+<!-- <hr/> -->
 
 <div>
 <h1>:eyes: About me</h1>
