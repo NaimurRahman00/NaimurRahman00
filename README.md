@@ -6,18 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahman00" /> </p>
 </div>
 
-<p>I'm an enthusiastic Junior Frontend Developer from Dhaka, Bangladesh.</p>
-<p>Currently studying for a BSc in Mathematics. I love learning new technologies and applying them to create innovative web solutions. My skills include HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Next.js, and Firebase for authentication. On the backend, I work with Node.js and MongoDB.</p>
-
-- 🌟 Language: **JavaScript**
-
-- 🌱 I’m currently learning **Next.js & TypyScript**
-
-- 🤝  I'm enthusiastic about collaborating on innovative front-end development projects.
-
-- 📫 Reach me out **naimurwebdev@gmail.com**
-
-<hr/>
+<p>I'm an enthusiastic Frontend Developer from Dhaka, Bangladesh.</p>
+<p>I love learning new technologies and applying them to create innovative web solutions. My skills include TypeScript, Next.js, React Native and Firebase for authentication. On the backend, I work with Node.js and MongoDB.</p>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -26,7 +16,7 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NaimurRahman00&theme=gotham&hide_border=false&background=0D1117&stroke=0D1117&fire=#3FDA26&sideLabels=#3FDA26&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br/>
-<hr/>
+<!-- <hr/> -->
 
 ## :computer: Technologies that I know + Tools
 
